@@ -1,3 +1,5 @@
+// Task 3: Asynchronous File Handling
+// Create a Node.js script that reads a text file named "data.txt" and counts the number of words in it. The script should print the total word count to the console.
 
 const fs = require('fs');
 const filename = 'sample.txt';

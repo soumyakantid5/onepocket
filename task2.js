@@ -1,3 +1,6 @@
+// Task 2: Data Manipulation
+// Write a function in Node.js that takes an array of integers as input and returns the sum of all the numbers.
+
 const sumOfArray = (array) => {
     if (Array.isArray(array)) {
     let sum = 0;
